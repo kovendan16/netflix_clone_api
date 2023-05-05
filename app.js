@@ -1,7 +1,7 @@
 // api key  from TMDB 
-const api = "api_key=9c01bc51e3095c9d889d05989bec36d1";
+const api = "7bdb99423060b503b1e9c5e6f50868d7";
 // base url of the site 
-const base_url = "https://api.themoviedb.org/3";
+const base_url = "https://developers.themoviedb.org/3";
 // url
 const final_url = base_url + "/discover/movie?sort_by=popularity.desc&" + api;
 // img url 
